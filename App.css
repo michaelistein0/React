@@ -1,0 +1,10 @@
+div.container{
+	background-color: green;
+}
+form.form-register{
+	background: white;
+}
+button.register{
+	background-color: green
+	font-color:black;
+}
